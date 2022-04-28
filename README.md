@@ -10,7 +10,7 @@ A portion of the codes used for this program is from a variation of Will Drevo's
 - evaluator.py
 - lookup.py
 
-You can run the program by navigating to this folder and type the following to a terminal.
+You can run the program by navigating to "with-treys" folder and type the following to a terminal.
 ```shell
 python3 play_poker.py
 ```
